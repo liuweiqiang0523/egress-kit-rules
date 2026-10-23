@@ -1,6 +1,6 @@
 # 由 tools/gen_rules.py 自动生成，请勿手改。
 # 源：source/direct-cn-sites.txt
-# 条目：86
+# 条目：93
 # 用法（Surge [Rule] 段，策略组名必须与配置完全一致，否则整份配置载入失败）：
 #   DOMAIN-SET,https://cdn.jsdelivr.net/gh/liuweiqiang0523/egress-kit-rules@main/dist/direct-cn.list,DIRECT
 api.ipify.org
@@ -89,3 +89,10 @@ rustdesk.onemjj.com
 apps.apple.com
 .ls.apple.com
 .store.apple.com
+.115.com
+.115cdn.com
+.115cdn.net
+.115vod.com
+.115img.com
+.anxia.com
+.fanqienovel.com
