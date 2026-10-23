@@ -1,6 +1,6 @@
 # 由 tools/gen_rules.py 自动生成，请勿手改。
 # 源：source/direct-cn-sites.txt
-# 条目：93
+# 条目：86
 # 用法（Egern rules: 段）：
 #   - rule_set:
 #       match: https://cdn.jsdelivr.net/gh/liuweiqiang0523/egress-kit-rules@main/dist/direct-cn.yaml
@@ -80,13 +80,6 @@ domain_suffix_set:
   - dmhy.org
   - ls.apple.com
   - store.apple.com
-  - 115.com
-  - 115cdn.com
-  - 115cdn.net
-  - 115vod.com
-  - 115img.com
-  - anxia.com
-  - fanqienovel.com
 domain_set:
   - api.ipify.org
   - api6.ipify.org
