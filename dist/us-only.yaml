@@ -1,0 +1,10 @@
+# 由 tools/gen_rules.py 自动生成，请勿手改。
+# 源：source/us-only-sites.txt
+# 条目：1
+# 用法（Egern rules: 段最前）：
+#   - rule_set:
+#       match: https://raw.githubusercontent.com/liuweiqiang0523/egress-kit/main/dist/us-only.yaml
+#       policy: 🇺🇸US
+no_resolve: true
+domain_suffix_set:
+  - nodeseek.com
