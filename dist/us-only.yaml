@@ -3,7 +3,7 @@
 # 条目：1
 # 用法（Egern rules: 段最前）：
 #   - rule_set:
-#       match: https://raw.githubusercontent.com/liuweiqiang0523/egress-kit/main/dist/us-only.yaml
+#       match: https://raw.githubusercontent.com/liuweiqiang0523/egress-kit-rules/main/dist/us-only.yaml
 #       policy: 🇺🇸US
 no_resolve: true
 domain_suffix_set:

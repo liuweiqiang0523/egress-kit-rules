@@ -2,5 +2,5 @@
 # 源：source/us-only-sites.txt
 # 条目：1
 # 用法（Surge [Rule] 段最前；组名必须与配置里的策略组完全一致，否则整份配置载入失败）：
-#   RULE-SET,https://raw.githubusercontent.com/liuweiqiang0523/egress-kit/main/dist/us-only.list,🇺🇸US
+#   RULE-SET,https://raw.githubusercontent.com/liuweiqiang0523/egress-kit-rules/main/dist/us-only.list,🇺🇸US
 DOMAIN-SUFFIX,nodeseek.com
