@@ -2,7 +2,7 @@
 # 源：source/direct-cn-sites.txt
 # 条目：86
 # 用法（Surge [Rule] 段，策略组名必须与配置完全一致，否则整份配置载入失败）：
-#   DOMAIN-SET,https://cdn.jsdelivr.net/gh/liuweiqiang0523/egress-kit-rules@main/dist/direct-cn.list,DIRECT
+#   DOMAIN-SET,https://cdn.jsdelivr.net/gh/liuweiqiang0523/Surge-rules@main/dist/direct-cn.list,DIRECT
 api.ipify.org
 api6.ipify.org
 ipv4.ip.sb

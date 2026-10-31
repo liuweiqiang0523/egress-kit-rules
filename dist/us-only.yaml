@@ -3,7 +3,7 @@
 # 条目：1
 # 用法（Egern rules: 段）：
 #   - rule_set:
-#       match: https://cdn.jsdelivr.net/gh/liuweiqiang0523/egress-kit-rules@main/dist/us-only.yaml
+#       match: https://cdn.jsdelivr.net/gh/liuweiqiang0523/Surge-rules@main/dist/us-only.yaml
 #       policy: 🇺🇸US
 no_resolve: true
 domain_suffix_set:

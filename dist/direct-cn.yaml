@@ -3,7 +3,7 @@
 # 条目：86
 # 用法（Egern rules: 段）：
 #   - rule_set:
-#       match: https://cdn.jsdelivr.net/gh/liuweiqiang0523/egress-kit-rules@main/dist/direct-cn.yaml
+#       match: https://cdn.jsdelivr.net/gh/liuweiqiang0523/Surge-rules@main/dist/direct-cn.yaml
 #       policy: DIRECT
 no_resolve: true
 domain_suffix_set:
